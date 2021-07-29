@@ -1,3 +1,5 @@
+![Computer window showing landscape with hills.](images/computer_window_hills.png "Computer window showing landscape with hills.")
+
 ### Hi there 👋
 
 <!--
